@@ -14,7 +14,7 @@ After running node you will be prompted to answer the questions. Once you have a
 
 ## Walkthrough Video
 
-![Walkthrough Video](./walkthrough.gif)
+[Walkthrough Video](https://drive.google.com/file/d/1u1FEZgwobT5Td3FnJ50zEocerN6B5tJr/view?usp=sharing)
 
 ## Credits
 
